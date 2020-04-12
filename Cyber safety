@@ -1,10 +1,14 @@
 <!doctype html>
 <html>
 <head>
-body {background-color: PowderBlue;}
+<body {background-color: PowderBlue;}>
 <H1 style="background-color:Lime;"> Welcome to my website. </H1>
 <p> I am going to be writing about cyber safety.</p> 
 <p> What is cyber safety? </p>
-<p> cyber safety is staying safe on the internet. Staying safe on the internet is a very important thing because being unsafe can be very harmful. Some ways to stay safe are by keeping a trusted antivirus or updating the software of your device. Never sahre passwords or things that can be used to harm you and always keep your private information private. do not share your location on social media unless your share it with someone trusted. Always let a few trusted people like family know your location. Always be alert and never believe scams. You have to be wise and careful. Always make sure that you are on a secure connection so that no one can hack into you system. Always know what websites you are on. They should be safe and secure. You can check if it is safe by checking the start of the link. If it is https, with the "S" then it is secure. A very important thing is to not use a shopping site on an unsecure network, because hackers could use that information and rob money from you.
+<p> cyber safety is staying safe on the internet. Staying safe on the internet is a very important thing because being unsafe can be very harmful. Some ways to stay safe are by keeping a trusted antivirus or updating the software of your device. Never sahre passwords or things that can be used to harm you and always keep your private information private. do not share your location on social media unless your share it with someone trusted. Always let a few trusted people like family know your location. Always be alert and never believe scams. You have to be wise and careful. Always make sure that you are on a secure connection so that no one can hack into you system. Always know what websites you are on. They should be safe and secure. You can check if it is safe by checking the start of the link. If it is https, with the "S" then it is secure. A very important thing is to not use a shopping site on an unsecure network, because hackers could use that information and rob money from you. </p>
 <p> If you follow these, you can browse the internet safley and securely.
-<p>  HTML code by Advaita Mehrotra <p>
+<p>  HTML code by Advaita Mehrotra </p>
+</!doctype html>
+</html>
+</head>
+</body>
